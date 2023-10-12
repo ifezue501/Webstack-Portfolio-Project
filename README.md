@@ -27,7 +27,7 @@ Twitter Web Clone is built using React framework and JavaScript. It allows users
 
 To get started with the Twitter Web Clone, follow these steps:
 
-1. Clone the Repository: git clone git@github.com:ifezue501/Webstack-Portfolio-Project.git
+1. Clone the Repository: git clone the Repo
 2. Navigate to the Project Directory: cd Webstack-Portfolio-Project
 3. Install Dependencies: npm install
 
