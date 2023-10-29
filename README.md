@@ -43,3 +43,6 @@ To view the project locally, start the development server: npm start
 
 
 ## Pages - <a href="https://twitter-web-clone.netlify.app/">Demo</a>
+
+## Authors:
+***Rufai Muhammed <muhammedrufai@yahoo.com>***
