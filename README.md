@@ -46,5 +46,6 @@ To view the project locally, start the development server: npm start
 
 ## Authors:
 ***Rufai Muhammed <muhammedrufai@yahoo.com>***
-**Onah Nelson-OCHELLE <Onahnelson2@gmail.com>**
-*Daniel Chahul <funniyou@gmail.com>
+***Onah Nelson-OCHELLE <Onahnelson2@gmail.com>***
+***Daniel Chahul <funniyou@gmail.com>***
+***Anyichie Camillus <flasysexy501@yahoo.com>***
